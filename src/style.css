@@ -1,0 +1,27 @@
+.cryptoHeader{
+    background-color: orange;
+    padding: 5rem;
+    justify-content: center;
+    display: grid;
+    margin-top: 0%;
+
+}
+.cryptoInput{
+    width: 20rem;
+    height: 2rem;
+    border-radius: 2px;
+    font-size: 15px;
+    text-align: center;
+}
+.cryptoData{
+    color: white;
+    justify-content: center;
+    display: grid;
+}
+.Coin{
+    text-align: center;
+    background-color: black;
+    border-radius: 10px;
+    margin: 2rem;
+    padding: 1rem;
+}
